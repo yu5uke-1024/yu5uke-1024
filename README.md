@@ -1,8 +1,6 @@
-## Open the pod bay doors please, HAL. 
-#### [2001: A Space Odyssey]
+Open the pod bay doors please, HAL.  [2001: A Space Odyssey]
 
-<span style="font-size: 200%>Open the pod bay doors please, HAL. t</span>
-<span style="font-size: 100%> [2001: A Space Odyssey]</span>
+
 
 
 <p align="center"> 
