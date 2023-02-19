@@ -5,6 +5,4 @@
    <img alt="github stats" height="125px" src="https://github-readme-stats.vercel.app/api?username=yu5uke-1024&theme=tokyonight&show_icons=true" />
 </p>
 
-<p align="center"> 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yu5uke-1024&theme=tokyonight)](https://git.io/streak-stats)
-</p>
