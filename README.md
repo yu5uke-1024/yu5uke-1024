@@ -2,7 +2,7 @@
 
 
 <p align="center"> 
-   <img alt="github stats" height="240px" src="http://github-readme-streak-stats.herokuapp.com?user=yu5uke-1024&theme=tokyonight" />
+   <img alt="github stats" height="220px" src="http://github-readme-streak-stats.herokuapp.com?user=yu5uke-1024&theme=tokyonight" />
 </p>
 
 <p align="left"> 
