@@ -2,13 +2,13 @@
 
 
 <p align="center">    
-   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yu5uke-1024&show_icons=true&theme=tokyonight&hide=jupyter%20notebook" />
+   <img alt="Top Langs" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yu5uke-1024&show_icons=true&theme=tokyonight&hide=jupyter%20notebook" />
 </p>
 
 <p align="center">    
-   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=yu5uke-1024&theme=tokyonight&show_icons=true" />
+   <img alt="github stats" height="250px" src="https://github-readme-stats.vercel.app/api?username=yu5uke-1024&theme=tokyonight&show_icons=true" />
 </p>
 
 <p align="center">    
-   <img alt="github ss" height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=yu5uke-1024&theme=tokyonight" />
+   <img alt="github ss" height="250px" src="http://github-readme-streak-stats.herokuapp.com?user=yu5uke-1024&theme=tokyonight" />
 </p>
