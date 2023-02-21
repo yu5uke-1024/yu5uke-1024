@@ -7,7 +7,7 @@
 
 </p>
 
-レポジトリの説明
+## Repository description
 - poker_and_game_theory
    - code about poker and game theory mainly
 - Japan-Statistical-Society-Certificate-Grade-Pre-1
