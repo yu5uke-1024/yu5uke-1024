@@ -1,4 +1,4 @@
-## Stats
+## Data
 
 <p align="center">    
    <img alt="github ss" width="500px" src="http://github-readme-streak-stats.herokuapp.com?user=yu5uke-1024&theme=tokyonight" />
