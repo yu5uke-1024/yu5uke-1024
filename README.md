@@ -7,3 +7,8 @@
 
 </p>
 
+レポジトリの説明
+- poker_and_game_theory
+   - code about poker and game theory mainly
+- Japan-Statistical-Society-Certificate-Grade-Pre-1
+   -  Study record for the Statistical Test Pre-1st Grade
