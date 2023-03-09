@@ -1,8 +1,8 @@
 ## Data
 
 <p align="center">    
-   <img alt="github ss" height="150px" src="http://github-readme-streak-stats.herokuapp.com?user=yu5uke-1024&theme=tokyonight" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yu5uke-1024&show_icons=true&theme=tokyonight&hide=jupyter%20notebook" />
+   <img alt="github ss" height="160px" src="http://github-readme-streak-stats.herokuapp.com?user=yu5uke-1024&theme=tokyonight" />
+  <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yu5uke-1024&show_icons=true&theme=tokyonight&hide=jupyter%20notebook" />
 </p>
 
 ## Repository description
