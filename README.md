@@ -1,4 +1,4 @@
-## Data
+## Data for Github
 
 <p align="center">    
    <img alt="github ss" height="170px" src="http://github-readme-streak-stats.herokuapp.com?user=yu5uke-1024&theme=tokyonight" />
@@ -13,6 +13,6 @@
 -  Reading_record
    - Reading record 
 
-## Favorite word
+## Favorite word for movie
 
 Open the pod bay doors please, HAL. [2001: A Space Odyssey]
