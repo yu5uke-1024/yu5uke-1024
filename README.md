@@ -1,4 +1,4 @@
-## Data for Github
+## Data for my Github
 
 <p align="center">    
    <img alt="github ss" height="170px" src="http://github-readme-streak-stats.herokuapp.com?user=yu5uke-1024&theme=tokyonight" />
