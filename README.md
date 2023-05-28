@@ -10,6 +10,8 @@
    - code about poker and game theory mainly
 - Japan-Statistical-Society-Certificate-Grade-Pre-1
    -  Study record for the Statistical Test Pre-1st Grade
+-  Reading_record
+   - Reading record 
 
 ## Favorite word
 
