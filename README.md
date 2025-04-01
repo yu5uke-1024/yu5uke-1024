@@ -6,6 +6,6 @@
 
 
 
-## Favorite word for movie
+## My favorite word for movie
 
 Open the pod bay doors please, HAL. [2001: A Space Odyssey]
