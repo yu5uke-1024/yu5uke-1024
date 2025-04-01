@@ -1,14 +1,8 @@
 ## Data for my Github
 
-<p align="center">    
+<p align="left">    
    <img alt="github ss" height="170px" src="http://github-readme-streak-stats.herokuapp.com?user=yu5uke-1024&theme=tokyonight" />
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yu5uke-1024&show_icons=true&theme=tokyonight&hide=jupyter%20notebook" />
 </p>
-
-## Repository description
-- poker_and_game_theory
-  
-- Japan-Statistical-Society-Certificate-Grade-Pre-1
 
 
 
