@@ -1,10 +1,11 @@
-## Data for my Github
-
-<p align="left">
-  <img alt="github ss" height="170px" src="https://streak-stats.demolab.com?user=yu5uke-1024&theme=tokyonight" />
+<p align="center">
+  <img alt="github ss" src="https://streak-stats.demolab.com?user=yu5uke-1024&theme=tokyonight" />
 </p>
 
+---
 
-## My favorite word for movie
-
-Open the pod bay doors please, HAL. [2001: A Space Odyssey]
+<p align="center">
+  <ins><b>Favorite Movie Quote</b></ins><br><br>
+  <font size="4">🚀 <i>"Open the pod bay doors please, HAL."</i></font><br>
+  <b>[ 2001: A Space Odyssey ]</b>
+</p>
