@@ -1,7 +1,7 @@
 ## Data for my Github
 
 <p align="left">    
-   <img alt="github ss" height="170px" src="http://github-readme-streak-stats.herokuapp.com?user=yu5uke-1024&theme=tokyonight" />
+   <img alt="github ss" height="170px" src="https://github-readme-streak-stats.herokuapp.com?user=yu5uke-1024&theme=tokyonight" />
 </p>
 
 
